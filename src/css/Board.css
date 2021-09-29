@@ -1,0 +1,12 @@
+.container{
+    background-color: azure;
+    align-items: center;
+    margin: auto 0;
+    padding-left: 300px;
+    display: flex;
+}
+
+.container-buttons{
+    display: grid;
+    padding: 15px;
+}
