@@ -29,8 +29,7 @@ Click this button to change the board orientation.
 
 ### Chess Cases
 
-Click this button to get the current position on the board in Chess Cases notation (See [Chess Fonts](http://www.enpassant.dk/chess/fonteng.htm)).
-This action will trigger a pop-up message with the desired information.
+Click this button to get the current position on the board in Chess Cases notation (See [Chess Fonts](http://www.enpassant.dk/chess/fonteng.htm)). 
 
 ## Español
 
@@ -61,5 +60,4 @@ Haz click en este botón para cambiar la orientación del tablero.
 
 ### Chess Cases
 
-Haz click en este botón para obtener en notación Chess Cases (Véase [Chess Fonts](http://www.enpassant.dk/chess/fonteng.htm)) la posición actual en el tablero.
-Esto hará que aparezca un mensaje en la pantalla con la información deseada.
+Haz click en este botón para obtener en notación Chess Cases (Véase [Chess Cases](http://www.enpassant.dk/chess/fonteng.htm)) la posición actual en el tablero.
