@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/chessboard-editor/static/css/main.35c1d5b0.chunk.css",
-    "main.js": "/chessboard-editor/static/js/main.04c3b62e.chunk.js",
-    "main.js.map": "/chessboard-editor/static/js/main.04c3b62e.chunk.js.map",
-    "runtime-main.js": "/chessboard-editor/static/js/runtime-main.f70870ea.js",
-    "runtime-main.js.map": "/chessboard-editor/static/js/runtime-main.f70870ea.js.map",
-    "static/js/2.12d900d6.chunk.js": "/chessboard-editor/static/js/2.12d900d6.chunk.js",
-    "static/js/2.12d900d6.chunk.js.map": "/chessboard-editor/static/js/2.12d900d6.chunk.js.map",
-    "static/js/3.139292ab.chunk.js": "/chessboard-editor/static/js/3.139292ab.chunk.js",
-    "static/js/3.139292ab.chunk.js.map": "/chessboard-editor/static/js/3.139292ab.chunk.js.map",
+    "main.css": "/chessboard-editor/static/css/main.0cfb2b46.chunk.css",
+    "main.js": "/chessboard-editor/static/js/main.f08d5cc1.chunk.js",
+    "main.js.map": "/chessboard-editor/static/js/main.f08d5cc1.chunk.js.map",
+    "runtime-main.js": "/chessboard-editor/static/js/runtime-main.26d5825c.js",
+    "runtime-main.js.map": "/chessboard-editor/static/js/runtime-main.26d5825c.js.map",
+    "static/js/2.28dc0d31.chunk.js": "/chessboard-editor/static/js/2.28dc0d31.chunk.js",
+    "static/js/2.28dc0d31.chunk.js.map": "/chessboard-editor/static/js/2.28dc0d31.chunk.js.map",
+    "static/js/3.3e9db2ac.chunk.js": "/chessboard-editor/static/js/3.3e9db2ac.chunk.js",
+    "static/js/3.3e9db2ac.chunk.js.map": "/chessboard-editor/static/js/3.3e9db2ac.chunk.js.map",
     "index.html": "/chessboard-editor/index.html",
-    "static/css/main.35c1d5b0.chunk.css.map": "/chessboard-editor/static/css/main.35c1d5b0.chunk.css.map",
-    "static/js/2.12d900d6.chunk.js.LICENSE.txt": "/chessboard-editor/static/js/2.12d900d6.chunk.js.LICENSE.txt",
+    "static/css/main.0cfb2b46.chunk.css.map": "/chessboard-editor/static/css/main.0cfb2b46.chunk.css.map",
+    "static/js/2.28dc0d31.chunk.js.LICENSE.txt": "/chessboard-editor/static/js/2.28dc0d31.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/chessboard-editor/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f70870ea.js",
-    "static/js/2.12d900d6.chunk.js",
-    "static/css/main.35c1d5b0.chunk.css",
-    "static/js/main.04c3b62e.chunk.js"
+    "static/js/runtime-main.26d5825c.js",
+    "static/js/2.28dc0d31.chunk.js",
+    "static/css/main.0cfb2b46.chunk.css",
+    "static/js/main.f08d5cc1.chunk.js"
   ]
 }
