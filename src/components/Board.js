@@ -26,31 +26,25 @@ export const Board = () => {
     }
 
     function handleChessCase(){
-        alert('Copy and paste the following paragraph in your ' + 
-        'preferred word processor (Microsoft Word, LibreOffice Writer, etc.):\n' + 
-        toChessCase(position));
+        alert(toChessCase(position));
     }
-
-    /*function deleteMove(square){
-        const newPosition = position;
-        delete newPosition[square];
-        setPosition(newPosition);
-    }*/
 
     return (
             <div className = "container">
                 <Chessboard 
                 position = {position} 
                 sparePieces = {true}
-                onDrop = { move => handleMove(move)}
+                onDrop = {move => handleMove(move)}
                 getPosition = {position => setPosition(position)}
                 orientation = {orientation}
+                dropOffBoard = {'trash'}
                 />
                     <div className = "container-buttons">
                         <Button onClick = {() => setPosition("start")} text = 'Starting position'/>
                         <Button onClick = {() => setPosition({})} text = 'Clean board'/>
                         <Button onClick = {() => handleOrientation()} text = 'Change orientation'/>
-                        <Button onClick = {() => handleChessCase()} text = 'Marroquin Notation'></Button>
+                        <Button onClick = {() => handleChessCase()} text = 'Marroquin notation'/>
+                        <Button onClick = {() => window.open("https://github.com/JuanDiazDev/chessboard-editor")} text = 'Docs'/>
                     </div>  
             </div>  
     )

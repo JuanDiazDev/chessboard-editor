@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+# Usage / Uso
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## English
 
-## Available Scripts
+### Add a piece
 
-In the project directory, you can run:
+If you want to add a new piece on the board, just pick one of the pieces placed above or below 
+the board and drop it on any square.
 
-### `npm start`
+### Move a piece
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Drag and drop the piece on the target square.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Remove a piece
 
-### `npm test`
+Drag and drop the piece off the board to remove it.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Starting position
 
-### `npm run build`
+Click this button to get the starting position on the board.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Clean board
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Click this button to clean the board.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Change orientation
 
-### `npm run eject`
+Click this button to change the board orientation.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Marroquin notation
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Click this button to get the current position on the board in Marroquin notation. 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Español
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Agregar una pieza
 
-## Learn More
+Para agregar una pieza nueva al tablero, solo escoge una de las piezas que se encuentran abajo
+o arriba del tablero y suéltala en una casilla.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Mover una pieza
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Arrastra y suelta la pieza en la casilla deseada.
 
-### Code Splitting
+### Borrar una pieza
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Arrastra y suelta la pieza fuera del tablero.
 
-### Analyzing the Bundle Size
+### Starting position
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Haz click en este botón para obtener la posición inicial en el tablero.
 
-### Making a Progressive Web App
+### Clean board
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Haz click en este botón para limpiar el tablero.
 
-### Advanced Configuration
+### Change orientation
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Haz click en este botón para cambiar la orientación del tablero. 
 
-### Deployment
+### Marroquin notation
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Haz click en este botón para obtener en notación Marroquin la posición actual en el tablero.

@@ -2,6 +2,11 @@
     font-family: 'Russo One', sans-serif;
     font-size: xx-large;
     background-color: rgb(50, 199, 199);
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    margin-bottom: 1ex;
 }
 
 h1 {
