@@ -43,7 +43,7 @@ export const Board = () => {
                         <Button onClick = {() => setPosition("start")} text = 'Starting position'/>
                         <Button onClick = {() => setPosition({})} text = 'Clean board'/>
                         <Button onClick = {() => handleOrientation()} text = 'Change orientation'/>
-                        <Button onClick = {() => handleChessCase()} text = 'Marroquin notation'/>
+                        <Button onClick = {() => handleChessCase()} text = 'Chess Cases'/>
                         <Button onClick = {() => window.open("https://github.com/JuanDiazDev/chessboard-editor")} text = 'Docs'/>
                     </div>  
             </div>  
